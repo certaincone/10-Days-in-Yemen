@@ -1,0 +1,29 @@
+
+#background {
+   width: 100vw;
+   height: 100vh;
+   position: fixed;
+   right: 0;
+}
+
+#grand-title {
+    width: 9%;
+    position: fixed;
+    left: 44%;
+    margin-top: 6%;
+}
+
+#laptop {
+    width: 50%;
+    position: fixed;
+    left: 23%;
+    margin-top: 56%;
+}
+
+#text {
+    width: 74%;
+    position: fixed;
+    left: 12%;
+    margin-top: 97%;
+}
+
